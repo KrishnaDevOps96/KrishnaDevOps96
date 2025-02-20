@@ -20,7 +20,7 @@ A passionate DevOps Engineer
 <a target="_blank" href="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<a href="https://linkedin.com/in/sai krishna bethamcharla" target="_blank">
+<a href="https://linkedin.com/in/Sai_krishna_Bethamcharla" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="32" height="32">
 </a>
 <a href="https://instagram.com/krishna_bethamcharla" target="_blank">
