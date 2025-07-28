@@ -1,7 +1,7 @@
-# Hi 👋, I'm Krishna
+# Hi 👋, I'm sai Krishna
 A passionate DevOps Engineer 
 
-- 💼 Working as a  Sr DevOps Engineer at Unitel Software.
+- 💼 Working as a DevOps Engineer at Symplocos Solutions.
 - 💻 Interested in Cloud solutions, Automation, and Infrastructure as Code.
 - 💬 Ask me about anything related to DevOps, CI/CD, and cloud technologies.
 
